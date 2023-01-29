@@ -19,7 +19,7 @@ The dataset is prepared for Abstractive/Extractive summarization tasks. It can a
 
 One example from the dataset is given below in JSON format.
 
-```json
+```python
 {'id': 33885080,
 
  'title': 'İsmayıllı silkələndi - Zəlzələ',
